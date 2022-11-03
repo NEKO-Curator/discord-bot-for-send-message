@@ -1,0 +1,9 @@
+#rename config.yaml-sample to config.yaml
+#Bot token
+BOT_TOKEN: '***********************************'
+
+#message
+DISCORD_MESSAGE: '*******' 
+
+#ID Channel without quotes
+CHANNEL_ID: 901083361798422528
